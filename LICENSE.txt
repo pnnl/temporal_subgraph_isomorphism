@@ -1,4 +1,4 @@
-Copyright (c) 2017, PNNL
+Copyright (c) 2019, PNNL
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
