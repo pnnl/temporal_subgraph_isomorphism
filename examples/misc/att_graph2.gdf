@@ -1,0 +1,24 @@
+nodedef> name VARCHAR, color VARCHAR, size INT
+a,red,1
+b,red,1
+c,red,1
+d,red,9
+e,blue,9
+f,blue,9
+g,blue,9
+h,blue,2
+i,green,1
+j,green,2
+k,green,3
+l,green,4
+edgedef> node1 VARCHAR, node2 VARCHAR, time INT, weight DOUBLE
+a,b,1000,.5
+b,c,2000,.4
+c,d,3000,.3
+d,e,4000,.2
+e,f,5000,.1
+f,g,6000,.9
+g,h,7000,.9
+h,i,8000,.9
+i,j,9000,.9
+j,k,10000,.9

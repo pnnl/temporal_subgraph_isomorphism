@@ -1,0 +1,9 @@
+nodedef> name VARCHAR, color VARCHAR, size INT
+A,,
+B,,
+C,,
+D,,
+edgedef> node1 VARCHAR, node2 VARCHAR, time INT, weight DOUBLE
+A, B, 1,>.8
+B, C, 2,>.8
+C, D, 3,>.8

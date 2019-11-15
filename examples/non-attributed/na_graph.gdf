@@ -1,0 +1,35 @@
+nodedef> name VARCHAR
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+edgedef> node1 VARCHAR, node2 VARCHAR, time INT
+a,b,1000
+b,c,2000
+c,e,2500
+c,a,3000
+f,l,3500
+c,d,4000
+e,h,4500
+d,e,5000
+e,f,6000
+h,c,6300
+l,n,6600
+f,d,7000
+n,l,7500
+g,h,8000
+m,n,8500
+h,i,9000
+l,m,9300
+n,f,9600
+i,j,10000
